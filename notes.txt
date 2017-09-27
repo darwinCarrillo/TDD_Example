@@ -1,5 +1,4 @@
 TaskMaster :
 1 : I can create a task
-2 : I can mark my task Done/Todo
-3 : I can create a multiple tasks
-4 : Newly created tasks are sent to my slack channel
+2 : I can view all my task in one page
+3 : I can mark my task Done/Todo

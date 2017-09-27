@@ -1,0 +1,10 @@
+What do I need?
+
+PHP 7.0
+PHPUnit
+SQLite3
+
+Getting started
+
+touch database/database.sqlite
+php artisan migrate
